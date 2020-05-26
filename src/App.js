@@ -9,8 +9,6 @@ import EditKremowka from "./components/edit-kremowka";
 import CreateKremowka from "./components/kremowka-create";
 import CreateUser from "./components/create-user";
 
-//import './App.css';
-
 function App() {
   return (
     <Router>
