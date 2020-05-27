@@ -1,5 +1,5 @@
 # Kremówka - świat słodyczy
-Projekt ten ma pomóc z dodawaniem nowych słodyczy do spisu przez daną osobę.
+Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opisami oraz ilością jaką się dysponuje przez danego użytkownika.
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,8 +11,8 @@ Projekt ten ma pomóc z dodawaniem nowych słodyczy do spisu przez daną osobę.
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+## Ogólne informacje
+Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi się dysponuje, w czym można łatwo się pomylić przy większych ilościach, jeśli nie prowadzi się pewnego spisu na bieżąco.
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
