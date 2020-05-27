@@ -15,7 +15,7 @@ Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opi
 Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi się dysponuje, w czym można łatwo się pomylić przy większych ilościach, jeśli nie prowadzi się pewnego spisu na bieżąco.
 
 ## Screenshots
-##### Menu główne aplikacji:
+#### Menu główne aplikacji:
 ![2020-05-27 (13)](https://user-images.githubusercontent.com/65533537/83051400-442e4e00-a04e-11ea-8088-52c26c014552.png)
 Edycja danego produktu:
 ![2020-05-27 (14)](https://user-images.githubusercontent.com/65533537/83051456-590ae180-a04e-11ea-810e-7832b365167c.png)
