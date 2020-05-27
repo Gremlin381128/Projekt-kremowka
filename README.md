@@ -37,8 +37,9 @@ List of features ready and TODOs for future development
 * Awesome feature 3
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Wykorzystanie jsonwebtoken w frontendzie
+* Modyfikacja logowania do aplikacji
+* Dodanie opcji wprowadzającej obrazki dla wybranych produktów
 
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
@@ -47,4 +48,4 @@ Project is: _in progress_, _finished_, _no longer continue_ and why?
 Projekt jest inspirowany różnymi sklepami z słodyczami oraz tym jak się tam organizuje spis produktów.
 
 ## Kontakt
-Created by Artur Kobiałka gremlingremlinski@gmail.com - feel free to contact me!
+Stworzone przez Artura Kobiałkę (gremlingremlinski@gmail.com)
