@@ -52,12 +52,12 @@ export default class KremowkaList extends Component {
   render() {
     return (
       <div className="container">
-        <h3>Nasze wytworu słodkiego</h3>
+        <h3>Nasze produkty</h3>
         <table className="table">
           <thead className="thead-light">
             <tr>
               <th>Username</th>
-              <th>Nazwa wytworu słodkiego</th>
+              <th>Nazwa produkt</th>
               <th>Opis</th>
               <th>Ilość</th>
               <th>Data</th>
