@@ -2,14 +2,14 @@
 Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opisami oraz ilością jaką się dysponuje przez danego użytkownika.
 
 ## Table of contents
-* [General info](#ogólne-informacje)
+* [Ogólne informacje](#ogólne-informacje)
 * [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
+* [Technologie](#technologies)
+* [Instrukcja](#setup)
+* [Cechy](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+* [Inspiracje](#inspiration)
+* [Kontakt](#contact)
 
 ## Ogólne informacje
 Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi się dysponuje, w czym można łatwo się pomylić przy większych ilościach, jeśli nie prowadzi się pewnego spisu na bieżąco.
