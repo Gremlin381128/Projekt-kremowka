@@ -8,8 +8,8 @@ Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opi
 * [Instrukcja](#setup)
 * [Cechy](#features)
 * [Status](#status)
-* [Inspiracje](#inspiration)
-* [Kontakt](#contact)
+* [Inspiracje](#inspiracja)
+* [Kontakt](#kontakt)
 
 ## Ogólne informacje
 Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi się dysponuje, w czym można łatwo się pomylić przy większych ilościach, jeśli nie prowadzi się pewnego spisu na bieżąco.
@@ -43,8 +43,8 @@ To-do list:
 ## Status
 Project is: _in progress_, _finished_, _no longer continue_ and why?
 
-## Inspiration
-Add here credits. Project inspired by..., based on...
+## Inspiracja
+Projekt jest inspirowany różnymi sklepami z słodyczami oraz tym jak się tam organizuje spis produktów.
 
-## Contact
-Created by [@Artur Kobiałka] - feel free to contact me!
+## Kontakt
+Created by Artur Kobiałka gremlingremlinski@gmail.com - feel free to contact me!
