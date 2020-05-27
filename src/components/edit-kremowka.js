@@ -105,7 +105,7 @@ export default class EditKremowka extends Component {
   render() {
     return (
     <div>
-      <h3>Edytuj kremówkę</h3>
+      <h3>Edytuj wytwór słodki</h3>
       <form onSubmit={this.onSubmit}>
         <div className="form-group"> 
           <label>Username: </label>
@@ -125,7 +125,7 @@ export default class EditKremowka extends Component {
           </select>
         </div>
         <div className="form-group"> 
-          <label>Nazwa kremówki: </label>
+          <label>Nazwa wytworu słodkiego: </label>
           <input  type="text"
               required
               className="form-control"

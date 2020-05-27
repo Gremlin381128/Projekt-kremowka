@@ -88,7 +88,7 @@ export default class CreateKremowka extends Component {
     render() {
         return (
             <div>
-                <h3>Dodaj nową kremówkę</h3>
+                <h3>Dodaj nowy wytwór słodki</h3>
                 <form onSubmit={this.onSubmit}>
                     <div className="form-group">
                         <label>Username: </label>
@@ -108,7 +108,7 @@ export default class CreateKremowka extends Component {
                             </select>
                     </div>
                     <div className="form-group">
-                        <label>Nazwa kremówki: </label>
+                        <label>Nazwa wytworu słodkiego: </label>
                         <input type="text"
                             required
                             className="form-control"
@@ -135,7 +135,7 @@ export default class CreateKremowka extends Component {
                             />
                     </div>
                     <div className="form-group">
-                        <label>Data dodania kremówki: </label>
+                        <label>Data dodania wytworu słodkiego: </label>
                         <div>
                             <DatePicker
                                 selected={this.state.date}
@@ -145,7 +145,7 @@ export default class CreateKremowka extends Component {
                     </div>
 
                     <div className="form-group">
-                        <input type="submit" value="Dodaj kremówkę" className="btn btn-primary" />
+                        <input type="submit" value="Dodaj nowy wytwór słodki" className="btn btn-primary" />
                     </div>
                 </form>
             </div>
