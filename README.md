@@ -2,7 +2,7 @@
 Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opisami oraz ilością jaką się dysponuje przez danego użytkownika.
 
 ## Table of contents
-* [General info](#general-info)
+* [General info](#ogólne-informacje)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
