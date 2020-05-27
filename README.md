@@ -4,9 +4,9 @@ Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opi
 ## Table of contents
 * [Ogólne informacje](#ogólne-informacje)
 * [Screenshots](#screenshots)
-* [Technologie](#technologies)
+* [Technologie](#technologie)
 * [Instrukcja](#setup)
-* [Cechy](#features)
+* [Cechy](#funkcjonalności)
 * [Status](#status)
 * [Inspiracje](#inspiracja)
 * [Kontakt](#kontakt)
@@ -26,10 +26,8 @@ Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi si
 #### Dodanie nowego użytkownika do bazy:
 ![2020-05-27 (17)](https://user-images.githubusercontent.com/65533537/83051569-7d66be00-a04e-11ea-8946-ddf4f5e1ef43.png)
 
-## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+## Technologie
+* react - wersja 16.13.1
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -38,14 +36,15 @@ Describe how to install / setup your local environement / add link to demo versi
 Show examples of usage:
 `put-your-code-here`
 
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+## Funkcjonalności
+Lista gotowych funkcjonalości oraz TODO list dla przyszłego rozwoju aplikacji
+* zapisywanie danych w bazie danych MongoDB
+* możliwość prostego tworzenia nowych użytkowników
+* proste dodawanie, edytowanie oraz usuwanie nowych produktów
+* logowanie użytkownika
 
 To-do list:
-* Wykorzystanie jsonwebtoken w frontendzie
+* Wykorzystanie jsonwebtoken w frontendzie do większego bezpieczeństwa
 * Modyfikacja logowania do aplikacji
 * Dodanie opcji wprowadzającej obrazki dla wybranych produktów
 
