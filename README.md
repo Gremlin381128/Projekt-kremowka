@@ -6,7 +6,7 @@ Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opi
 * [Screenshots](#screenshots)
 * [Technologie](#technologie)
 * [Instrukcja](#setup)
-* [Cechy](#funkcjonalności)
+* [Funkcjonalności](#funkcjonalności)
 * [Status](#status)
 * [Inspiracje](#inspiracja)
 * [Kontakt](#kontakt)
