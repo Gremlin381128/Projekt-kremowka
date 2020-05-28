@@ -51,4 +51,4 @@ Projekt jest w trakcie rozwijania.
 Projekt jest inspirowany różnymi sklepami z słodyczami oraz tym jak się tam organizuje spis produktów.
 
 ## Kontakt
-Stworzone przez Artura Kobiałkę (gremlingremlinski@gmail.com)
+Stworzone przez Artura Kobiałkę (arturkobialka2@gmail.com)
