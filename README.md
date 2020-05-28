@@ -1,68 +1,54 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Kremówka - świat słodyczy
+Projekt ten ma pomóc z zarządzaniem słodyczami jakimi się zarządza, ich opisami oraz ilością jaką się dysponuje przez danego użytkownika.
 
-## Available Scripts
+## Table of contents
+* [Ogólne informacje](#ogólne-informacje)
+* [Screenshots](#screenshots)
+* [Technologie](#technologie)
+* [Instrukcja](#setup)
+* [Cechy](#funkcjonalności)
+* [Status](#status)
+* [Inspiracje](#inspiracja)
+* [Kontakt](#kontakt)
 
-In the project directory, you can run:
+## Ogólne informacje
+Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi się dysponuje, w czym można łatwo się pomylić przy większych ilościach, jeśli nie prowadzi się pewnego spisu na bieżąco.
 
-### `npm start`
+## Screenshots
+#### Menu główne aplikacji:
+![2020-05-27 (13)](https://user-images.githubusercontent.com/65533537/83051400-442e4e00-a04e-11ea-8088-52c26c014552.png)
+#### Edycja danego produktu:
+![2020-05-27 (14)](https://user-images.githubusercontent.com/65533537/83051456-590ae180-a04e-11ea-810e-7832b365167c.png)
+#### Dodanie nowego produktu:
+![2020-05-27 (15)](https://user-images.githubusercontent.com/65533537/83051491-645e0d00-a04e-11ea-8bcd-d332be4158e0.png)
+#### Ekran logowania:
+![2020-05-27 (16)](https://user-images.githubusercontent.com/65533537/83051523-6f18a200-a04e-11ea-82ea-d01e59b220e1.png)
+#### Dodanie nowego użytkownika do bazy:
+![2020-05-27 (17)](https://user-images.githubusercontent.com/65533537/83051569-7d66be00-a04e-11ea-8946-ddf4f5e1ef43.png)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Technologie
+* react - wersja 16.13.1
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Setup
+Po pobraniu oraz rozpakowaniu, należy wpisać w konsoli `npm install react-app`, aby pobrać niezbędne pliki do uruchomienia aplikacji. Następnie po pobraniu plików należy wpisać w konsoli `cd backend` oraz wpisać `nodemon server`, aby uruchomić backend. Jako ostatnią rzecz jaką należy zrobić to trzeba otworzyć nowy terminal i wpisać `npm start`, aby uruchomić frontend.
 
-### `npm test`
+## Funkcjonalności
+Lista gotowych funkcjonalości oraz TODO list dla przyszłego rozwoju aplikacji
+* zapisywanie danych w bazie danych MongoDB
+* możliwość prostego tworzenia nowych użytkowników
+* proste dodawanie, edytowanie oraz usuwanie nowych produktów
+* logowanie użytkownika
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To-do list:
+* Wykorzystanie jsonwebtoken w frontendzie do większego bezpieczeństwa
+* Modyfikacja logowania do aplikacji
+* Dodanie opcji wprowadzającej obrazki dla wybranych produktów
 
-### `npm run build`
+## Status
+Projekt jest w trakcie rozwijania.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Inspiracja
+Projekt jest inspirowany różnymi sklepami z słodyczami oraz tym jak się tam organizuje spis produktów.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## Kontakt
+Stworzone przez Artura Kobiałkę (gremlingremlinski@gmail.com)
