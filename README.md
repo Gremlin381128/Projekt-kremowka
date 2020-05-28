@@ -30,11 +30,7 @@ Projekt ten jest stworzony z myślą o pewnym porządkowaniu słodyczy jakimi si
 * react - wersja 16.13.1
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+Po pobraniu oraz rozpakowaniu, należy wpisać w konsoli `npm install react-app`, aby pobrać niezbędne pliki do uruchomienia aplikacji. Następnie po pobraniu plików należy wpisać w konsoli `cd backend` oraz wpisać `nodemon server`, aby uruchomić backend. Jako ostatnią rzecz jaką należy zrobić to trzeba otworzyć nowy terminal i wpisać `npm start`, aby uruchomić frontend.
 
 ## Funkcjonalności
 Lista gotowych funkcjonalości oraz TODO list dla przyszłego rozwoju aplikacji
@@ -49,7 +45,7 @@ To-do list:
 * Dodanie opcji wprowadzającej obrazki dla wybranych produktów
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Projekt jest w trakcie rozwijania.
 
 ## Inspiracja
 Projekt jest inspirowany różnymi sklepami z słodyczami oraz tym jak się tam organizuje spis produktów.
